@@ -1,4 +1,4 @@
-# Ignore environment files
+# Ignore environment files 
 .env
 
 # Ignore compiled Python files
@@ -7,6 +7,3 @@ __pycache__/
 
 # Ignore database files
 *.db
-
-# Ignore Git related files
-.git/
